@@ -38,6 +38,8 @@ Une entreprise e-commerce veut savoir qui sont ses meilleurs clients, lesquels r
 ## Application Streamlit
 
 Deux fonctions : simuler un client à partir de sa R, F, M, ou importer un fichier CSV pour segmenter plusieurs clients et télécharger le résultat.
+![Simulation d'un client](captures/app_simulation_churn.png)
+![Import d'un fichier CSV](captures/app_import_csv.png)
 
 ## Lancer le projet
 
