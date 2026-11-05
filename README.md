@@ -2,6 +2,8 @@
 
 Projet pédagogique de Machine Learning non supervisé : regrouper les clients d'une boutique en ligne selon leur comportement d'achat, afin de personnaliser les actions marketing.
 
+**Application en ligne : [ouvrir l'application](https://segmentation-clients-rfm-kfc5brwnnxt5xu4mn2djhj.streamlit.app)**
+
 ## Problème métier
 
 Une entreprise e-commerce veut savoir qui sont ses meilleurs clients, lesquels risquent de partir et lesquels viennent d'arriver, pour adapter ses offres. Ce projet segmente les clients avec la méthode RFM :
