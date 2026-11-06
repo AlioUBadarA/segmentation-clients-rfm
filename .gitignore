@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Données brutes et fichiers générés par train.py
+Online Retail.xlsx
+online_retail.zip
+rfm_segments.csv
